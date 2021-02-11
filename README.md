@@ -5,7 +5,7 @@ Buildtools
 
 Features
 --------
-This is not just another Hunger Games plugin. This plugin aims to bring a fully automated, fully fledged gaming system to your server.
+This is just a better SG plugin, including:
  - Full automation
  - Automatic arena regeneration
  - Chest reset / randomly filled chest
