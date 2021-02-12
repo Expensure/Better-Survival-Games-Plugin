@@ -1,7 +1,8 @@
 # Better Survival Games Plugin
 Requirements:
 Worldedit
-Buildtools
+Buildtools installed
+EssentialsX
 
 Features
 --------

@@ -15,10 +15,8 @@ import org.bukkit.plugin.Plugin;
 import com.Techtician.survivalgames.SurvivalGames;
 
 
-// This is no longer being used as mc-sg.org is down.
 public class UpdateChecker {
 
-    //Includes simple metrics!!
 
     public void check (Player player, Plugin p) {
 
